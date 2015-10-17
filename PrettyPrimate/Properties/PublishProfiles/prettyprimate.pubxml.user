@@ -11,19 +11,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/about.cshtml.a8d08dba.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/addphonenumber.cshtml.68f676f.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>08/02/2015 15:16:31</publishTime>
+      <publishTime>10/11/2015 16:21:38</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>08/16/2015 17:33:57</publishTime>
+      <publishTime>10/17/2015 16:36:55</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>08/16/2015 17:33:57</publishTime>
+      <publishTime>10/17/2015 16:36:55</publishTime>
+    </File>
+    <File Include="bin/App_Web_cqubpi5l.dll">
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/App_Web_fjibex00.dll">
       <publishTime>08/16/2015 17:34:00</publishTime>
@@ -37,17 +40,29 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/App_Web_mgnxew1y.dll">
       <publishTime>08/16/2015 17:34:00</publishTime>
     </File>
+    <File Include="bin/App_Web_mkhijxay.dll">
+      <publishTime>10/17/2015 16:36:57</publishTime>
+    </File>
+    <File Include="bin/App_Web_nhk5fjn4.dll">
+      <publishTime>10/17/2015 16:36:56</publishTime>
+    </File>
     <File Include="bin/App_Web_pe0e1ly1.dll">
       <publishTime>08/16/2015 17:33:59</publishTime>
     </File>
+    <File Include="bin/App_Web_rpiunr3z.dll">
+      <publishTime>10/17/2015 16:36:56</publishTime>
+    </File>
+    <File Include="bin/App_Web_tcsuio3j.dll">
+      <publishTime>10/17/2015 16:36:57</publishTime>
+    </File>
     <File Include="bin/changepassword.cshtml.68f676f.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/confirmemail.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/contact.cshtml.a8d08dba.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>08/02/2015 15:16:40</publishTime>
@@ -56,34 +71,34 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/02/2015 15:16:40</publishTime>
     </File>
     <File Include="bin/error.cshtml.639c3968.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/externalloginconfirmation.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/externalloginfailure.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/forgotpassword.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/forgotpasswordconfirmation.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/index.cshtml.68f676f.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/index.cshtml.a8d08dba.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/lockout.cshtml.639c3968.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/login.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/managelogins.cshtml.68f676f.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>08/02/2015 15:16:49</publishTime>
@@ -134,16 +149,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/02/2015 15:16:49</publishTime>
     </File>
     <File Include="bin/PrettyPrimate.dll">
-      <publishTime>08/16/2015 15:59:12</publishTime>
+      <publishTime>10/17/2015 16:36:41</publishTime>
     </File>
     <File Include="bin/register.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/resetpassword.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/resetpasswordconfirmation.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>08/02/2015 15:16:51</publishTime>
@@ -182,10 +197,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/02/2015 15:16:53</publishTime>
     </File>
     <File Include="bin/sendcode.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/setpassword.cshtml.68f676f.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>08/02/2015 15:16:29</publishTime>
@@ -209,25 +224,25 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/02/2015 15:16:29</publishTime>
     </File>
     <File Include="bin/verifycode.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/verifyphonenumber.cshtml.68f676f.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>08/02/2015 15:16:31</publishTime>
     </File>
     <File Include="bin/_externalloginslistpartial.cshtml.5f83eb8c.compiled">
-      <publishTime>08/16/2015 17:33:59</publishTime>
+      <publishTime>10/17/2015 16:36:56</publishTime>
     </File>
     <File Include="bin/_layout.cshtml.639c3968.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/_loginpartial.cshtml.639c3968.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="bin/_viewstart.cshtml.65a2d1ee.compiled">
-      <publishTime>08/16/2015 17:34:00</publishTime>
+      <publishTime>10/17/2015 16:36:57</publishTime>
     </File>
     <File Include="Content/bootstrap-theme.css">
       <publishTime>08/16/2015 14:45:58</publishTime>
@@ -250,8 +265,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/grayscale.css">
       <publishTime>08/16/2015 14:55:19</publishTime>
     </File>
+    <File Include="Content/Images/prettygelada.png">
+      <publishTime>10/17/2015 16:27:33</publishTime>
+    </File>
     <File Include="Content/Site.css">
-      <publishTime>08/02/2015 15:16:02</publishTime>
+      <publishTime>10/17/2015 16:35:39</publishTime>
     </File>
     <File Include="css/font-awesome.css">
       <publishTime>08/16/2015 14:50:52</publishTime>
@@ -299,10 +317,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/02/2015 15:16:02</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>08/16/2015 14:51:32</publishTime>
+      <publishTime>10/11/2015 16:21:39</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>08/16/2015 17:33:48</publishTime>
+      <publishTime>10/17/2015 16:36:49</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>08/16/2015 14:45:58</publishTime>
@@ -344,88 +362,88 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/16/2015 14:51:33</publishTime>
     </File>
     <File Include="Views/Account/ConfirmEmail.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/ExternalLoginConfirmation.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/ExternalLoginFailure.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/ForgotPassword.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/ForgotPasswordConfirmation.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/Login.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/Register.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/ResetPassword.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/ResetPasswordConfirmation.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/SendCode.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/VerifyCode.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Account/_ExternalLoginsListPartial.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Manage/AddPhoneNumber.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Manage/ChangePassword.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Manage/Index.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Manage/ManageLogins.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Manage/SetPassword.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Manage/VerifyPhoneNumber.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Shared/Lockout.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>08/02/2015 15:16:02</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>08/16/2015 17:34:01</publishTime>
+      <publishTime>10/17/2015 16:36:59</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/16/2015 16:16:19</publishTime>
+      <publishTime>10/17/2015 16:36:47</publishTime>
     </File>
   </ItemGroup>
 </Project>
